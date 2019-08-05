@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ShatteredSuite/ShatteredSuite/master/header.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ShatteredSuite/.github/master/header.png" /></p>
 
 ## Who We Are
 
